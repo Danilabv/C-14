@@ -190,7 +190,7 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#cdc81e; }
+.header-section { background-color:#811485; }
 .features-section  { background-color:#ecf0f1; }
 .reviews-section { background-color:#ffffff; }
 .app-services-section { background-color:#18549b; }
@@ -274,8 +274,8 @@ img, img.responsive {
 	color: #FFFFFF;
 }
 .red-btn {
-	border-color: #E36A01;
-	color: #E36A01;
+	border-color: #FFFFFF;
+	color: #FFFFFF;
 }
 .red-btn:hover, .red-btn:active, .red-btn:focus {
 	background: #E36A01;
@@ -305,7 +305,7 @@ img, img.responsive {
 }
 /* ------------- Logo & Menu ------------- */
 .logo-container {
-	background: rgba(24,84,156,0.9);
+	background: rgb(0,0,0);
 	color: #fff;
 	padding: 16px 0 13px;
 }
@@ -387,7 +387,7 @@ img, img.responsive {
 .left-banner-text {
 	margin-top: 60px;
 	padding-top: 50px;
-	color: #FFFFFF;
+	color: #ab8f17;
 }
 .after-1500 .left-banner-text {
 	margin-top: 30px;
